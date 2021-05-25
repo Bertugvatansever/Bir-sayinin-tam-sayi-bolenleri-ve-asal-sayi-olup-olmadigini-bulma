@@ -1,1 +1,1 @@
-# Bir-sayinin-tam-sayi-b-lenleri-ve-asal-sayi-olup-olmadi-ini-bulma
+
